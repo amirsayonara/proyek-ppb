@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Jadwal Mingguan</string>
+    <string-array name="nama_hari">
+        <item>Minggu</item>
+        <item>Senin</item>
+        <item>Selasa</item>
+        <item>Rabu</item>
+        <item>Kamis</item>
+        <item>Jum\'at</item>
+        <item>Sabtu</item>
+    </string-array>
+    <string name="jadwal_aktif">Jadwal Aktif</string>
+    <string name="jadwal_tidak_aktif">Jadwal Tidak Aktif</string>
+</resources>

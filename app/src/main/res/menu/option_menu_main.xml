@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:title="Jadwal Tidak Aktif"
+    android:onClick="jadwal_aktif"/>
+<item
+    android:title="Hapus Semua Jadwal"
+    android:onClick="hapus_semua_jadwal"/>
+<item
+    android:title="Tentang Aplikasi"
+    android:onClick="tentang_aplikasi"/>
+</menu>
