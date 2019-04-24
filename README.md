@@ -1,4 +1,5 @@
 # Proyek Akhir Pemrograman Perangkat Bergerak
+[![Release](https://img.shields.io/github/release/amirsayonara/proyek-ppb)](https://github.com/amirsayonara/proyek-ppb/releases/latest)
 [![License](https://img.shields.io/github/license/amirsayonara/proyek-ppb)](LICENSE)
 [![Twitter Follow](https://img.shields.io/twitter/follow/amir_sayonara)](https://twitter.com/amir_sayonara)
 
