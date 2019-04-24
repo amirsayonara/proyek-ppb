@@ -9,13 +9,13 @@
 ```
 Identitias Pembuat:
 
-NIM			: 160411100153
-Nama		: Moch. Amir
+NIM         : 160411100153
+Nama        : Moch. Amir
 Mata Kuliah : Pemrograman Perangkat Bergerak (C) - 2019
 Jurusan     : Teknik Informatika
-Dikti		: Universitas Trunojoyo Madura
+Dikti       : Universitas Trunojoyo Madura
 ```
 [Copyright (c) 2019 Amir Sayonara](LICENSE)
 
 ## Poster
-![alt text](poster.png 'Poster')
+![alt text](poster.jpg 'Poster')
